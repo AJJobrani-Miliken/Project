@@ -1,0 +1,9 @@
+Series,N_total,N_overdue,Pct_overdue,Median_overdue_days,P90_overdue_days,Max_overdue_days
+HIB_Status,365,228,62.5,954.0,1220.0,1273.0
+Hep_B_Status,358,198,55.3,1249.0,1400.0,1453.0
+Pneumococcal_Status,360,197,54.7,990.0,1218.0,1273.0
+Hep_A_Status,279,145,52.0,701.0,1004.0,1056.0
+DTAP_Status,365,188,51.5,954.5,1218.0,1273.0
+Polio_Status,247,64,25.9,926.0,1095.7,1218.0
+MMR_Status,271,0,0.0,,,
+Varicella_Status,275,0,0.0,,,
